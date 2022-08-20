@@ -1,0 +1,8 @@
+name = "naman523-1"
+
+workers_dev = true
+compatibility_date = "2021-12-04"
+
+[env.production]
+CLOUDFLARE_API_TOKEN="JiuGn22i3h71-9VAs-edovkddJjU_WQJCDBY88mA"
+CLOUDFLARE_ACCOUNT_ID="2ea175be2a21490b0be07ab34ca303f8123123"
